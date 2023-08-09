@@ -1,10 +1,10 @@
 # Dummy-MDC-Jet-Pack-Compose
 
 <em>Este dummy lo trabajó con las siguientes tecnologías: <br>
--SDK 33
--Java version 1.8
--Arquitectura Clean
- y Jet pack compose.
+-Android con Jet Pack Compose. <br>
+-SDK 33. <br>
+-Java version 1.8.  <br>
+-Arquitectura Clean.  <br>
 <br>
 Implementando algunos de los componentes y prodiedades más comunes como: <br>
 ConstraintLayout,
