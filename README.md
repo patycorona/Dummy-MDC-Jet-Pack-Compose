@@ -1,7 +1,7 @@
-# Dummy-MDC-Jet-Pack-Compose
+# Dummy MDC JetPack Compose
 
 <em>Este dummy lo trabajó con las siguientes tecnologías: <br>
--Android con Jet Pack Compose. <br>
+-Android con JetPack Compose. <br>
 -SDK 33. <br>
 -Java version 1.8.  <br>
 -Arquitectura Clean.  <br>
