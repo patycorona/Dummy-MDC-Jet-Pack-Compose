@@ -6,7 +6,7 @@
 -Java version 1.8.  <br>
 -Arquitectura Clean.  <br>
 <br>
-Implementando algunos de los componentes y prodiedades más comunes como: <br>
+Implementando algunos de los componentes y prodiedades más comunes de MDC como: <br>
 ConstraintLayout,
 Image,
 Button,
